@@ -1,2 +1,2 @@
 # Controle Academico JAVA
- Tratamento de erros (Try-Catch) e Manipulação de Strings
+Programa simples em JAVA. Praticando o Tratamento de erros (Try-Catch) e Manipulação de Strings, somente.
